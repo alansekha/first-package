@@ -1,0 +1,20 @@
+{
+    "name": "sekolahlaravel/simplegeo",
+    "description": "Get location package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sekolahlaravel\\Simplegeo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alan Sekha",
+            "email": "alansekha1905@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
